@@ -1,6 +1,6 @@
 # SS14.Admin
 
-SS14.Admin is the web-based admin panel intended to be used with Space Station 14.
+SS14.Admin.Monolith is the web-based admin panel intended to be used with Space Station 14.
 
 ## Configuration
 
