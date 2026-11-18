@@ -35,6 +35,17 @@
   <data name="Round:" xml:space="preserve"><value>Раунд:</value></data>
   <data name="Message:" xml:space="preserve"><value>Сообщение:</value></data>
   <data name="Data:" xml:space="preserve"><value>Данные:</value></data>
+  <data name="Searching logs…" xml:space="preserve"><value>Загрузка логов…</value></data>
+  <data name="Search logs" xml:space="preserve"><value>Найти логи</value></data>
+  <data name="Search messages…" xml:space="preserve"><value>Поиск в сообщениях…</value></data>
+  <data name="Any date" xml:space="preserve"><value>Любая дата</value></data>
+  <data name="Clear date range" xml:space="preserve"><value>Сбросить период</value></data>
+  <data name="Reset filters" xml:space="preserve"><value>Сбросить фильтры</value></data>
+  <data name="results on this page" xml:space="preserve"><value>записей на этой странице</value></data>
+  <data name="Low" xml:space="preserve"><value>Низкая</value></data>
+  <data name="Medium" xml:space="preserve"><value>Средняя</value></data>
+  <data name="High" xml:space="preserve"><value>Высокая</value></data>
+  <data name="Extreme" xml:space="preserve"><value>Критическая</value></data>
 </root>
 
 
